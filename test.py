@@ -11,6 +11,10 @@ def count(numbers):
     return frequency
 
 A = count(a)
+
+
+
+
 print(A)   
 
 B = set(a)
